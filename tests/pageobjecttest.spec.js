@@ -19,7 +19,7 @@ test('Page Object Model in Playwright', async ({ page }) => {
     //Click on playlist
     const resultpage = new ResultPage(page);
     resultpage.clickOnPlaylist();
-    await page.waitForTimeout(3000);
+    await page.waitForTimeout(2000);
 
     //Click on video
     const playlistpage = new PlaylistPage(page);
