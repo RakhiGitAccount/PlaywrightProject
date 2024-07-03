@@ -1,12 +1,18 @@
 #Playwright Project
+
+
 This is my first Playwright Sample Project
 
 ##Overview
-This project will start serach from google by using keyword "playwright by testers talk". Then will click on the URL and will play the video in youtube.
-It will generate HTML report and Allure report for tests
+
+
+This project will start a search from Google by using the keyword "playwright by testers talk". Then click on the URL and it will play the video on YouTube.
+It will generate an HTML report and an Allure report for tests
 I used Javascript in this project.
 
 ##Supported Browsers
+
+
 Chrome - default browser
 Firefox
 MS Edge
