@@ -22,6 +22,8 @@ WebKit - web browser engine used by Safari
 ##Instructions to open and run the project:
 
 Open the given folder (PlaywrightProject) in Visual Code
+
 Run by using the command in the terminal
 npx playwright test pageobjecttest.spec.js --project=chromium -- headed 
+
 The automation script will start.
